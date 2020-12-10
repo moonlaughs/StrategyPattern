@@ -1,0 +1,13 @@
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\ConsoleStrategy\ConsoleStrategy\bin\Debug\netcoreapp3.1\ConsoleStrategy.exe
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\ConsoleStrategy\ConsoleStrategy\bin\Debug\netcoreapp3.1\ConsoleStrategy.deps.json
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\ConsoleStrategy\ConsoleStrategy\bin\Debug\netcoreapp3.1\ConsoleStrategy.runtimeconfig.json
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\ConsoleStrategy\ConsoleStrategy\bin\Debug\netcoreapp3.1\ConsoleStrategy.runtimeconfig.dev.json
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\ConsoleStrategy\ConsoleStrategy\bin\Debug\netcoreapp3.1\ConsoleStrategy.dll
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\ConsoleStrategy\ConsoleStrategy\bin\Debug\netcoreapp3.1\ConsoleStrategy.pdb
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\ConsoleStrategy\ConsoleStrategy\obj\Debug\netcoreapp3.1\ConsoleStrategy.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\ConsoleStrategy\ConsoleStrategy\obj\Debug\netcoreapp3.1\ConsoleStrategy.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\ConsoleStrategy\ConsoleStrategy\obj\Debug\netcoreapp3.1\ConsoleStrategy.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\ConsoleStrategy\ConsoleStrategy\obj\Debug\netcoreapp3.1\ConsoleStrategy.AssemblyInfo.cs
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\ConsoleStrategy\ConsoleStrategy\obj\Debug\netcoreapp3.1\ConsoleStrategy.dll
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\ConsoleStrategy\ConsoleStrategy\obj\Debug\netcoreapp3.1\ConsoleStrategy.pdb
+C:\Users\asus\Desktop\2Semester\SoftwareDesignPatterns\ConsoleStrategy\ConsoleStrategy\obj\Debug\netcoreapp3.1\ConsoleStrategy.genruntimeconfig.cache
